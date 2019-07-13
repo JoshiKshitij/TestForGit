@@ -1,1 +1,3 @@
 add student
+
+Student added
